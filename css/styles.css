@@ -7,3 +7,7 @@ html {
 body {
     background-color: #1d2433;
 }
+
+article, footer {
+    color: #d7dce2;
+}

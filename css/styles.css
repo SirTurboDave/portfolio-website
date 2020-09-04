@@ -3,3 +3,7 @@ html {
     height: 100%;
     margin: 0px auto;
 }
+
+body {
+    background-color: #1d2433;
+}

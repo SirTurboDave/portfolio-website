@@ -30,19 +30,12 @@ header, section {
     margin: 5px auto;
 }
 
-footer {
-    clear: both;
-    color: #a2aabc;
-}
-
 .portfolio {
     max-width: 90%;
 }
 
 .education {
-    float: left;
     max-width: 90%;
-    margin: 20px;
 }
 
 article {
@@ -50,11 +43,18 @@ article {
     color: #a2aabc;
     max-width: 90%;
     float: center;
+    margin: 0px 0px 200px 0px;
+}
+
+.last {
+    margin-bottom: 0 !important;
 }
 
 h1 {
     color: #d7dce2;
+    font-size: 24pt;
     width: 90%;
+    margin: 0px;
 }
 
 h3 {
@@ -73,6 +73,7 @@ img.center {
 
 p {
     color: #a2aabc;
+    text-indent: 20px;
 }
 
 a {

@@ -22,6 +22,10 @@ header, section, footer, aside, nav, article, figure, figcaption {
   z-index: 100;
 }
 
+.skip-link:focus {
+  top: 0;
+}
+
 body {
     background-color: #1d2433;
     max-width: 960px;

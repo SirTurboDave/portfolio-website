@@ -12,6 +12,16 @@ header, section, footer, aside, nav, article, figure, figcaption {
     display: block;
 }
 
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background: #000000;
+  color: white;
+  padding: 8px;
+  z-index: 100;
+}
+
 body {
     background-color: #1d2433;
     max-width: 960px;
